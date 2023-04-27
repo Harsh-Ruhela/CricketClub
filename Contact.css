@@ -1,0 +1,59 @@
+.Header{
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    text-decoration: none;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    width: 35%;
+    margin-left: 23rem;
+}
+.navb{
+    text-decoration: none;
+    color: white;
+    
+}
+.navb:hover{
+    color: coral;
+}
+h2{
+    color: rgb(248, 6, 119);
+    
+}
+#contact-Top{
+    background-image: url(./images/ContactBG2.webp);
+    height: 28rem;
+    margin-left: 18rem;
+   
+}
+.user{
+    padding: 1rem;
+    margin-right: 3rem;
+}
+form{
+    padding-top: 1rem;
+    padding-left: 0rem;
+    
+}
+#cont{
+    border: 0.1rem;
+    border-style: solid;
+    width: 30rem;
+    margin-left: 2.5rem;
+    
+}
+.contac{
+    margin-left: 7.5rem;
+}
+.footer{
+    background-color: black;
+    color: aliceblue;
+    height: 15rem;
+    text-align: center;
+    padding-top: 5rem;
+    margin-top: 2rem;
+}

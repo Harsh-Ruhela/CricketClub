@@ -1,0 +1,23 @@
+.Header{
+    display: flex;
+    background-color: rgb(0, 0, 0);;
+    text-decoration: none;
+    justify-content: space-between;
+    color: aliceblue;
+}
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    width: 35%;
+    margin-left: 23rem;
+}
+.navb{
+    text-decoration: none;
+    color: white;
+    
+}
+.navb:hover{
+    color: coral;
+}
